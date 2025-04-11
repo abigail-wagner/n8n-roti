@@ -3,8 +3,8 @@
   "version": "1.88.0",
   "private": true,
   "engines": {
-    "node": ">=20.15",
-    "pnpm": ">=10.2.1"
+    "node": "21.x",
+    "pnpm": "11.x"
   },
   "packageManager": "pnpm@10.2.1",
   "scripts": {
